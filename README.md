@@ -1,2 +1,9 @@
 # CS255-Systems-Design
 Portfolio from CS255 Systems Analysis and Design. 
+
+
+DriverPass needed a system that users could use to study for their driving tests and book driving time with an instructor. This system had to be accessible from the internet. The company also needed features to manage internal matters through the downloading of activity reports. The client provided details of their request in an interview. These details were used to create multiple UML diagrams and a presentation explaining how the system would operate.
+
+I felt the use cases I created were very thorough. To ensure all of DriverPass’s needs were met I reviewed the client interview multiple times. All use cases can be viewed in the UML use case diagram. I would like to revise my sequence diagram. Since I’ve made the initial diagram I have done more systems design research. Seeing examples from professional projects help me understand where I went wrong. The diagram should only focus on the user making an appointment. The steps for purchasing a package does not add to this goal. Separating these functions into multiple diagrams would ensure both are clear to the reader. 
+
+Systems are inherently designed for others. It's important to keep that in mind when interpreting user needs. My first consideration was making sure the system provided all the key functionality requested. I also wanted the user interface to be accessible to non-technical users. Meeting these needs will help prevent delays in implementing the  new system. Going through this course has given me an appreciation for all the planning that goes into designing an application. In the future I would create a use case diagram earlier. Having a clear list of actors and functions helped me create those pieces of the system. I referenced it when creating my other diagrams. 
